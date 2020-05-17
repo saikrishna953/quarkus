@@ -1,7 +1,0 @@
-com\sai\lambda\StreamLambda.class
-com\sai\lambda\OutputObject.class
-com\sai\lambda\UnusedLambda.class
-META-INF\sisu\javax.inject.Named
-com\sai\lambda\ProcessingService.class
-com\sai\lambda\InputObject.class
-com\sai\lambda\TestLambda.class
